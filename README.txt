@@ -10,7 +10,7 @@ Utilizei a função de custo de erro quadrático médio (MSE) e a função de at
 
 entrada -> A11 
                \
-	            \
+		\
 	            A2 -> saída
                 /	
 entrada -> A12 /
